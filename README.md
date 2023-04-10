@@ -14,5 +14,5 @@ In this solution we try to:
 * Solving the problem of Imbalanced data
 * Data Preparation
 * Training Data with SVC model 
-* evaluation of the model
+* Evaluation of the model
 * Testing the model
